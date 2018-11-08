@@ -1,8 +1,14 @@
 .btn-primary {
-	background-color: '605CA8';
-	border-color: '4B0082';
+	background-color: #222d32 !important;
+	border-color: #4B0082 !important;
 }
 .btn-primary:hover, .btn-primary:active, .btn-primary.hover {
-    background-color: '9370DB' !important;
+    background-color: #2c3b41 !important;
 }
+
+.box.box-purple {
+    border-top-color: #9370DB;
+}
+
+
 	
